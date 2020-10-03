@@ -1,1 +1,1 @@
-# Quantile Reulariation : Towards Implicit Calibration of Regression Models
+# Quantile Regulariation : Towards Implicit Calibration of Regression Models
