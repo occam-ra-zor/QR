@@ -5,7 +5,7 @@ Data links
 
 
 | Dataset | N | D | link  |
-| --- | --- |
+| --- | --- |--- | --- |
 |  airfoil | 0 | 0 |https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise |
 |  boston  | 0 | 0 | |
 |  fish    | 0 | 0 | https://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity|
