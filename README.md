@@ -8,7 +8,7 @@ Data links
 | --- | --- |--- | --- |
 |  airfoil | 1503 | 5 |https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise |
 |  boston  | 506 | 12 | |
-|  conrete | 1030  | 8 |http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength  |
+|  conrete | 1030  | 7 |http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength  |
 |  fish    | 408 | 6 | https://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity|
 |  kin8nm   | 8182 | 8 | |
 |  protein teritary | 45730 |9 | https://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure |
