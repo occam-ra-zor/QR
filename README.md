@@ -7,9 +7,9 @@ Data links
 | Dataset | N | D | link  |
 | --- | --- |--- | --- |
 |  Airfoil | 1503 | 5 |https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise |
-|  Boston  | 506 | 12 | |
+|  Boston  | 506 | 13 | |
 |  Conrete | 1030  | 8 |http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength  |
-|  Fish Toxicity    | 408 | 6 | https://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity|
+|  Fish Toxicity    | 908 | 6 | https://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity|
 |  Kin8nm   | 8182 | 8 | |
 |  Protein Structure | 45730 |9 | https://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure |
 |  Red Wine | 1599 | 11 |  https://archive.ics.uci.edu/ml/datasets/wine+quality|
