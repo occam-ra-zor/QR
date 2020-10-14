@@ -11,7 +11,9 @@ from utils.qr_utils import _qr_loss
 from utils.isotonic_utils import _fit_isotonic
 
 
-                
+
+
+#ensemble-trainer
 class Ensemble_Trainer():
     
     
@@ -59,7 +61,7 @@ class Ensemble_Trainer():
         
         
         
-        
+#each base network trainer        
 class trainer():
    
     
