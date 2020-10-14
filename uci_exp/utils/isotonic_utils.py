@@ -47,12 +47,9 @@ def _fit_isotonic(model,train_loader):
 
     dist  = Normal(means,stds)
     cdf   = dist.cdf(ys)
-    pdf   = dist.log_prob(ys).exp()
-    icdf  = dist.icdf(ys)
-
     sorted_cdf,ind = cdf.sort()  #[N]
-    sorted_icdf    = icdf[ind]   #[N]
     y  = torch.arange(1.0,N+1)/N #[N]
+    
 
     ir = IsotonicRegression(out_of_bounds='clip')
     x  =  sorted_cdf.cpu().numpy() #[N]
