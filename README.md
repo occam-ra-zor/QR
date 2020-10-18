@@ -18,5 +18,5 @@ Data links
 |  Year  Prediction MSD | 515345 | 90 |  https://archive.ics.uci.edu/ml/datasets/YearPredictionMSD |
 
 
-1)place the data in data/ folder and run
-2)sample experiment in provided in folder for both dropout and ensemble
+
+Sample experiment is provided are for both dropout-VI and ensemble-VI
