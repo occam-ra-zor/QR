@@ -22,9 +22,9 @@ Data links
 Sample experiments are provided  for both dropout-VI and ensemble-VI models
 
 ```
-DropoutVi on Airfoil  without Quantile Regularization
+Dropout-VI on Airfoil  without Quantile Regularization
 --------------------------------
-calib         : 14.01 -+ 1.67
+calib         : 14.01 -+ 1.67                     
 iso_calib     : 19.37 -+ 3.42
 rmse          : 3.63 -+ 0.10
 iso_rmse      : 3.63 -+ 0.10
@@ -35,3 +35,18 @@ iso_time      : 0.08 -+ 0.01
 iso nll count : 18 , maximum likelihood :12022.05078125
 --------------------------------
 ```
+
+```
+Dropout-VI on Airfoil with Quantile Regularization (lambda = 1)
+----------------------------------
+calib         : 9.48 -+ 1.78
+iso_calib     : 12.73 -+ 1.46
+rmse          : 3.91 -+ 0.11
+iso_rmse      : 3.91 -+ 0.11
+nll           : 2.78 -+ 0.03
+iso_nll       : -0.76 -+ 0.32
+time          : 1.91 -+ 0.06
+iso_time      : 0.08 -+ 0.01
+iso nll count : 14 , maximum likelihood :4775.97607421875
+
+----------------------------------
