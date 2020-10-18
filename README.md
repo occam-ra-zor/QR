@@ -19,4 +19,4 @@ Data links
 
 
 
-Sample experiment is provided are for both dropout-VI and ensemble-VI
+Sample experiments are provided  for both dropout-VI and ensemble-VI models
