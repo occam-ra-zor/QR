@@ -16,3 +16,7 @@ Data links
 |  White Wine | 4898 | 11 |   https://archive.ics.uci.edu/ml/datasets/wine+quality |
 |  Yacht Hydrodynamics | 308 | 6 |   http://archive.ics.uci.edu/ml/datasets/yacht+hydrodynamics |
 |  Year  Prediction MSD | 515345 | 90 |  https://archive.ics.uci.edu/ml/datasets/YearPredictionMSD |
+
+
+1)place the data in data/ folder and run
+2)sample experiment in provided in folder for both dropout and ensemble
